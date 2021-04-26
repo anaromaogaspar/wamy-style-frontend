@@ -1,0 +1,35 @@
+
+
+    /**@media screen and (min-width:360px){
+    @media screen and (min-width:360px){
+     .cont1{
+       
+        background-size: 971px;
+        background-color: #d73392;
+        width: 500px;
+        height: 466px;
+        border-radius: 80px;
+        margin-top: 60px;
+        width:100%;
+        padding: 0 10px;
+      }
+
+      .img1{
+            width: 100px;
+            height: 100px;
+          }
+      .basic1{
+        font-size: 24px;
+        margin-top:10px;
+        
+      }
+          .button1{
+            
+                font-size: 24px;
+              width: 100px;
+              height: 100px;
+              
+          }
+      
+     };
+
